@@ -1,2 +1,2 @@
-# Codes of the paper: "Unilateral protection scheme for N -qubit GHZ states against decoherence: a resource-efficient approach"
+# Codes of the paper: "Unilateral protection scheme"
 Matlab and Qiskit codes for regenerating the results of the paper: "Unilateral protection scheme for N -qubit GHZ states against decoherence: a resource-efficient approach"
